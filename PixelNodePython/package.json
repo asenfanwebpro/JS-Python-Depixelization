@@ -11,7 +11,7 @@
     "author": "Petru Birzu",
     "license": "ISC",
     "dependencies": {
-        "express": "^4.16.4",
+        "express": "^4.18.2",
         "jsonwebtoken": "7.4",
         "python-shell": "1.0.8"
     },
